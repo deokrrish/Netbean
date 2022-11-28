@@ -1,5 +1,14 @@
-# Simply-Exploring-JSONPowerDB
+# This mini-project performs CRUD operations using JsonPowerDB.
 
-### About this Repository
-###### Here I have Implemented Simple Form Which Takes Input and Save it into JSONPower Database Using JavaScript, netBeans and ajax.
+Some features of JsonPowerDB are:
 
+Nimble, simple to use, in memory, real time
+Schema free - easy to maintain
+Serverless support - fast development - cuts time to market
+Built around the world's fastest indexing engine PowerIndex
+Webservices API - Low Dev Cost
+Multiple Security Layers
+A single instance - Million Indexes
+Inbuilt support for querying multiple databases
+Serverside Native NoSQL - best performance
+Multi-mode database - One solution to a variety of data
